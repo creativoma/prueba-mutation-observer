@@ -1,0 +1,15 @@
+/* Type your CSS code here. */
+.effect {
+  transition: all 250ms ease;
+}
+
+.effect:hover {
+  transform: scale(1.05);
+  background-color: #e2001a;
+  border: 0;
+}
+
+.s4d-products .s4d-product-simple-v2 .s4d-product-image img {
+  filter: grayscale(1);
+  transition: all ease 350ms;
+}
